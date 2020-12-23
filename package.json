@@ -18,7 +18,7 @@
   "author": "Vedmant",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.1",
     "bootstrap": "^4.0.0-beta",
     "bootstrap-vue": "^1.0.0-beta.9",
